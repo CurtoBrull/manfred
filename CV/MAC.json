@@ -1,0 +1,181 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Javier",
+      "surnames": "Curto Brull",
+      "title": "Desarrollador Backend Java",
+      "description": "Me encanta formarme y nunca parar de aprender.\nEn proceso de reinventarme completamente... nunca es tarde para hacer lo que te gusta.\nEmpezamos el cambio estudiando el CFGM de Sistemas Microinformáticos y Redes. \nAhora mismo terminando el CFGS de Desarrollo de Aplicaciones Web.\n¡¡Aprendiendo sin descanso!!",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/javier-curto-brull/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ministerio de Defensa"
+        },
+        "roles": [
+          {
+            "name": "Punto Oficial de Contacto para los Sistemas de Información y Telecomunicaciones, Oficinista",
+            "startDate": "2019-01-01",
+            "challenges": [
+              {
+                "description": "Punto Oficial de Contacto para los Sistemas de Información y Telecomunicaciones, Oficinista"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA"
+        },
+        "roles": [
+          {
+            "name": "Prácticas - Formación en Desarrollo Backend Java Spring",
+            "startDate": "2022-10-01",
+            "finishDate": "2022-12-31",
+            "challenges": [
+              {
+                "description": "Prácticas FP Desarrollo Aplicaciones Web\n- Java\n- Spring\n- Programación Funcional\n- Servicios API REST"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ministerio de Defensa"
+        },
+        "roles": [
+          {
+            "name": "Militar Profesional",
+            "startDate": "1998-05-01",
+            "finishDate": "2019-01-01",
+            "challenges": [
+              {
+                "description": "Militar Profesional"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DB2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/javier-curto-brull/"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
