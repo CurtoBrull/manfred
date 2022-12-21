@@ -43,13 +43,17 @@
       },
       {
         "organization": {
-          "name": "NTT DATA"
+          "name": "NTT DATA",
+          "image": {
+            "alt": "ntt.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/f540d6a1-3eee-4407-80d1-c83d26418d98_ntt.png"
+          }
         },
         "roles": [
           {
             "name": "Prácticas - Formación en Desarrollo Backend Java Spring",
             "startDate": "2022-10-01",
-            "finishDate": "2022-11-01",
+            "finishDate": "2022-12-01",
             "challenges": [
               {
                 "description": "Prácticas FP Desarrollo Aplicaciones Web\n- Java\n- Spring\n- Programación Funcional\n- Servicios API REST"
