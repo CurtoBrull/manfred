@@ -15,6 +15,9 @@
         "link": ""
       },
       "location": {
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Huércal de Almería",
         "notes": "Autocompleted using Google Maps API"
       }
     },
