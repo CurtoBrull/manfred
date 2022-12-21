@@ -180,6 +180,40 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGM Sistemas Microinformáticos y Redes",
+        "startDate": "2018-09-01",
+        "finishDate": "2020-06-01",
+        "institution": {
+          "name": "IES La Puebla"
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaFX",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
