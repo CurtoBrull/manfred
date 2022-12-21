@@ -27,7 +27,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "Ministerio de Defensa"
+          "name": "Ministerio de Defensa",
+          "image": {
+            "alt": "ET.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/06ef33d0-6a2b-4d88-9327-ebdf1d92b79d_et.jpg"
+          }
         },
         "roles": [
           {
@@ -35,7 +39,7 @@
             "startDate": "2019-01-01",
             "challenges": [
               {
-                "description": "Punto Oficial de Contacto para los Sistemas de Información y Telecomunicaciones, Oficinista"
+                "description": "Trabajo de oficina donde gestionamos la documentación del personal para su acceso a la base.\n\n• Gestión de equipos informáticos.\n• Gestión de usuarios de dichos equipos.\n• Mantenimiento de equipos informáticos.\n• Realización de tareas administrativas.\n• Atención al público."
               }
             ]
           }
