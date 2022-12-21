@@ -9,7 +9,7 @@
       "name": "Javier",
       "surnames": "Curto Brull",
       "title": "Desarrollador Backend Java",
-      "description": "Me encanta formarme y nunca parar de aprender.\nEn proceso de reinventarme completamente... nunca es tarde para hacer lo que te gusta.\nEmpezamos el cambio estudiando el CFGM de Sistemas Microinformáticos y Redes. \nAhora mismo terminando el CFGS de Desarrollo de Aplicaciones Web.\n¡¡Aprendiendo sin descanso!!",
+      "description": "Me encanta formarme y nunca parar de aprender.\n\nEn proceso de reinventarme completamente... nunca es tarde para hacer lo que te gusta.\n\nEmpezamos el cambio estudiando el CFGM de Sistemas Microinformáticos y Redes. \nAhora mismo terminando el CFGS de Desarrollo de Aplicaciones Web.\n\n¡¡Aprendiendo sin parar!!",
       "avatar": {
         "alt": "",
         "link": ""
@@ -84,6 +84,14 @@
   },
   "knowledge": {
     "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Limited working proficiency"
+      },
       {
         "name": "Spanish",
         "level": "Native or bilingual proficiency"
