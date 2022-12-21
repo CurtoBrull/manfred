@@ -64,7 +64,11 @@
       },
       {
         "organization": {
-          "name": "Ministerio de Defensa"
+          "name": "Ministerio de Defensa",
+          "image": {
+            "alt": "ET.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/318f29ee-372d-48c0-aca9-c0f45998749e_et.jpg"
+          }
         },
         "roles": [
           {
