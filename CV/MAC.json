@@ -184,6 +184,45 @@
     "studies": [
       {
         "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "CFGS Desarrollo de Aplicaciones Web",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "IES La Puebla"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "jQuery",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "CFGM Sistemas Microinformáticos y Redes",
         "startDate": "2018-09-01",
