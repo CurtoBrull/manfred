@@ -176,6 +176,12 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer"
+      ]
+    },
     "status": "searchingActively"
   }
 }
