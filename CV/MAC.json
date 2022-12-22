@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,10 +10,15 @@
       "surnames": "Curto Brull",
       "title": "Desarrollador Backend Java",
       "description": "Me encanta formarme y nunca parar de aprender.\n\nEn proceso de reinventarme completamente... nunca es tarde para hacer lo que te gusta.\n\nEmpezamos el cambio estudiando el CFGM de Sistemas Microinformáticos y Redes. \nAhora mismo terminando el CFGS de Desarrollo de Aplicaciones Web.\n\n¡¡Aprendiendo sin parar!!",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Huércal de Almería"
+        "municipality": "Huércal de Almería",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -92,13 +97,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -188,7 +196,8 @@
         "name": "CFGS Desarrollo de Aplicaciones Web",
         "startDate": "2020-09-01",
         "institution": {
-          "name": "IES La Puebla"
+          "name": "IES La Puebla",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -228,7 +237,8 @@
         "startDate": "2018-09-01",
         "finishDate": "2020-06-01",
         "institution": {
-          "name": "IES La Puebla"
+          "name": "IES La Puebla",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -307,6 +317,7 @@
         "Backend Developer",
         "Frontend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
