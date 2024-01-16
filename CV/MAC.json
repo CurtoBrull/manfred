@@ -247,6 +247,54 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Desarrollo de aplicaciones multiplataforma",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "IES Al-Ándalus",
+          "description": "CFGS de desarrollo de aplicaciones multiplataforma"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JPA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaFX",
+            "type": "technology"
+          },
+          {
+            "name": "Odoo",
+            "type": "technology"
+          },
+          {
+            "name": "Swing",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
