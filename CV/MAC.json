@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -10,15 +10,11 @@
       "surnames": "Curto Brull",
       "title": "Desarrollador Backend Java",
       "description": "Me encanta formarme y nunca parar de aprender.\n\nEn proceso de reinventarme completamente... nunca es tarde para hacer lo que te gusta.\n\nEmpezamos el cambio estudiando el CFGM de Sistemas Microinformáticos y Redes. \nAhora mismo terminando el CFGS de Desarrollo de Aplicaciones Web.\n\n¡¡Aprendiendo sin parar!!",
-      "avatar": {
-        "alt": "",
-        "link": ""
-      },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJOQL7kTWeeg0RQJQLJ3bF6vs)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Huércal de Almería",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Huércal de Almería"
       }
     },
     "relevantLinks": [
@@ -32,30 +28,10 @@
     "jobs": [
       {
         "organization": {
-          "name": "Ministerio de Defensa",
-          "image": {
-            "alt": "ET.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/06ef33d0-6a2b-4d88-9327-ebdf1d92b79d_et.jpg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Punto Oficial de Contacto para los Sistemas de Información y Telecomunicaciones, Oficinista",
-            "startDate": "2019-01-01",
-            "challenges": [
-              {
-                "description": "Trabajo de oficina donde gestionamos la documentación del personal para su acceso a la base.\n\n• Gestión de equipos informáticos.\n• Gestión de usuarios de dichos equipos.\n• Mantenimiento de equipos informáticos.\n• Realización de tareas administrativas.\n• Atención al público."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "NTT DATA",
           "image": {
-            "alt": "ntt.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/f540d6a1-3eee-4407-80d1-c83d26418d98_ntt.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/f540d6a1-3eee-4407-80d1-c83d26418d98_ntt.png",
+            "alt": "ntt.png"
           }
         },
         "roles": [
@@ -75,8 +51,28 @@
         "organization": {
           "name": "Ministerio de Defensa",
           "image": {
-            "alt": "ET.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/318f29ee-372d-48c0-aca9-c0f45998749e_et.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/06ef33d0-6a2b-4d88-9327-ebdf1d92b79d_et.jpg",
+            "alt": "ET.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Punto Oficial de Contacto para los Sistemas de Información y Telecomunicaciones, Oficinista",
+            "startDate": "2019-01-01",
+            "challenges": [
+              {
+                "description": "Trabajo de oficina donde gestionamos la documentación del personal para su acceso a la base.\n\n• Gestión de equipos informáticos.\n• Gestión de usuarios de dichos equipos.\n• Mantenimiento de equipos informáticos.\n• Realización de tareas administrativas.\n• Atención al público."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ministerio de Defensa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/318f29ee-372d-48c0-aca9-c0f45998749e_et.jpg",
+            "alt": "ET.jpg"
           }
         },
         "roles": [
@@ -97,58 +93,31 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JPA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
           "type": "technology"
         }
       },
@@ -166,7 +135,13 @@
       },
       {
         "skill": {
-          "name": "API",
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JPA",
           "type": "technology"
         }
       },
@@ -178,13 +153,37 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "MySQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -192,12 +191,43 @@
     "studies": [
       {
         "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGM Sistemas Microinformáticos y Redes",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "IES La Puebla"
+        },
+        "finishDate": "2020-06-01",
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaFX",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "CFGS Desarrollo de Aplicaciones Web",
         "startDate": "2020-09-01",
         "institution": {
-          "name": "IES La Puebla",
-          "description": ""
+          "name": "IES La Puebla"
         },
         "linkedCompetences": [
           {
@@ -229,39 +259,26 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "CFGM Sistemas Microinformáticos y Redes",
-        "startDate": "2018-09-01",
-        "finishDate": "2020-06-01",
-        "institution": {
-          "name": "IES La Puebla",
-          "description": ""
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaFX",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "XML",
-            "type": "technology"
-          }
-        ]
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -269,9 +286,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/javier-curto-brull/"
+          "URL": "https://www.linkedin.com/in/javier-curto-brull/",
+          "type": "linkedin"
         }
+      ],
+      "contactMails": [
+        "curto.brull.javier@gmail.com"
       ]
     },
     "preferences": {
@@ -319,5 +339,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Buscando el primer empleo que me permita aprender en un entorno real y poder empezar a llamarme desarrollador, que es lo que más deseo."
   }
 }
