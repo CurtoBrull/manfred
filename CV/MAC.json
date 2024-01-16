@@ -123,12 +123,6 @@
       },
       {
         "skill": {
-          "name": "DB2",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "HTML",
           "type": "technology"
         }
@@ -136,12 +130,6 @@
       {
         "skill": {
           "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JPA",
           "type": "technology"
         }
       },
@@ -341,6 +329,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "API",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Buscando el primer empleo que me permita aprender en un entorno real y poder empezar a llamarme desarrollador, que es lo que más deseo."
   }
 }
