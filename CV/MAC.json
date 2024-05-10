@@ -365,6 +365,10 @@
           "type": "technology"
         },
         {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
           "name": "Azure",
           "type": "technology"
         },
@@ -394,10 +398,6 @@
         },
         {
           "name": "Google Cloud",
-          "type": "technology"
-        },
-        {
-          "name": "HTML",
           "type": "technology"
         },
         {
