@@ -36,22 +36,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Career Break"
-        },
-        "roles": [
-          {
-            "name": "Professional development",
-            "startDate": "2024-05-10",
-            "challenges": [
-              {
-                "description": "Licencia de asuntos propios para realizar las prácticas del CFGS de Desarrollo de Aplicaciones Web en NTT Data."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "NTT DATA Europe & Latam",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/4f218df0-d19b-4883-b3b9-2c0b8a16708c_linkedin-photo-15293.linkedin-photo-15293",
@@ -95,6 +79,23 @@
               {
                 "name": "Spring",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Career Break"
+        },
+        "roles": [
+          {
+            "name": "Professional development",
+            "startDate": "2022-10-01",
+            "finishDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "Licencia de asuntos propios para realizar las prácticas del CFGS de Desarrollo de Aplicaciones Web en NTT Data."
               }
             ]
           }
