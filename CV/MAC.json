@@ -381,6 +381,10 @@
           "type": "technology"
         },
         {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "Spring",
           "type": "technology"
         },
