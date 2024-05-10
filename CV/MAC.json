@@ -373,6 +373,10 @@
           "type": "technology"
         },
         {
+          "name": "Chef",
+          "type": "technology"
+        },
+        {
           "name": "Django",
           "type": "technology"
         },
