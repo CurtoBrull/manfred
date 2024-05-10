@@ -377,6 +377,10 @@
           "type": "technology"
         },
         {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
           "name": "Spring",
           "type": "technology"
         },
