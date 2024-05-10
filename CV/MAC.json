@@ -387,10 +387,6 @@
         {
           "name": "Spring Boot",
           "type": "technology"
-        },
-        {
-          "name": "Vue",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
