@@ -61,10 +61,40 @@
         "roles": [
           {
             "name": "Desarrollador Backend con Spring",
-            "startDate": "2024-05-10",
+            "startDate": "2023-02-01",
             "challenges": [
               {
                 "description": "Desarrollador backend Java Spring"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
               }
             ]
           }
