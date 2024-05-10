@@ -377,6 +377,10 @@
           "type": "technology"
         },
         {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
           "name": "GitHub Actions",
           "type": "technology"
         },
