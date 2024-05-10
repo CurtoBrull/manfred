@@ -385,6 +385,10 @@
           "type": "technology"
         },
         {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
           "name": "Google Cloud",
           "type": "technology"
         },
