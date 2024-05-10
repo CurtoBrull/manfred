@@ -439,6 +439,10 @@
         {
           "name": "TypeScript",
           "type": "technology"
+        },
+        {
+          "name": "Vagrant",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
