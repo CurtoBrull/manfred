@@ -437,6 +437,10 @@
           "type": "technology"
         },
         {
+          "name": "Terraform",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         },
