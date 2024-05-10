@@ -361,6 +361,10 @@
           "type": "technology"
         },
         {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
           "name": "CSS",
           "type": "technology"
         },
