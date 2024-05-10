@@ -8,8 +8,12 @@
     "profile": {
       "name": "Javier",
       "surnames": "Curto Brull",
-      "title": "Desarrollador Backend Java",
-      "description": "Me encanta formarme y nunca parar de aprender.\n\nEn proceso de reinventarme completamente... nunca es tarde para hacer lo que te gusta.\n\nEmpezamos el cambio estudiando el CFGM de Sistemas Microinformáticos y Redes. \nAhora mismo terminando el CFGS de Desarrollo de Aplicaciones Web.\n\n¡¡Aprendiendo sin parar!!",
+      "title": "Desarrollador Backend con Spring en NTT DATA - Me encanta no parar de aprender 🙇🏻 - Enfocando mi ruta hacia DevOps 🧑🏻‍💻",
+      "description": "¡Me encanta cultivarme y nunca dejar de aprender! Estoy en pleno proceso de reinventarme por completo... Porque nunca es tarde para perseguir tus pasiones.\n\nEl primer paso de esta transformación fue estudiar el FP de Sistemas Microinformáticos y Redes, seguido por el FP de Desarrollo de Aplicaciones Web.\n\nEn mi incansable búsqueda de conocimiento, estoy avanzando gradualmente en mi formación como DevOps, un campo que me apasiona profundamente.\n\nDurante mis prácticas del Ciclo Formativo en NTT Data, tuve la oportunidad de sumergirme en el mundo laboral y más tarde me integré en su equipo como desarrollador backend Java, utilizando la plataforma Spring.\n\n¡Siempre en constante aprendizaje y evolución! 🚀",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/23f4cec5-d88a-4339-9a09-fc462937af46_linkedin-photo-15293.linkedin-photo-15293",
+        "alt": "24/05/10/23f4cec5-d88a-4339-9a09-fc462937af46_linkedin-photo-15293.linkedin-photo-15293"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJOQL7kTWeeg0RQJQLJ3bF6vs)",
         "country": "España",
@@ -20,73 +24,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/javier-curto-brull/"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "NTT DATA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/f540d6a1-3eee-4407-80d1-c83d26418d98_ntt.png",
-            "alt": "ntt.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Prácticas - Formación en Desarrollo Backend Java Spring",
-            "startDate": "2022-10-01",
-            "finishDate": "2022-12-01",
-            "challenges": [
-              {
-                "description": "Prácticas FP Desarrollo Aplicaciones Web\n- Java\n- Spring\n- Programación Funcional\n- Servicios API REST"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Ministerio de Defensa",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/06ef33d0-6a2b-4d88-9327-ebdf1d92b79d_et.jpg",
-            "alt": "ET.jpg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Punto Oficial de Contacto para los Sistemas de Información y Telecomunicaciones, Oficinista",
-            "startDate": "2019-01-01",
-            "challenges": [
-              {
-                "description": "Trabajo de oficina donde gestionamos la documentación del personal para su acceso a la base.\n\n• Gestión de equipos informáticos.\n• Gestión de usuarios de dichos equipos.\n• Mantenimiento de equipos informáticos.\n• Realización de tareas administrativas.\n• Atención al público."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Ministerio de Defensa",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/318f29ee-372d-48c0-aca9-c0f45998749e_et.jpg",
-            "alt": "ET.jpg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Militar Profesional",
-            "startDate": "1998-05-01",
-            "finishDate": "2019-01-01",
-            "challenges": [
-              {
-                "description": "Militar Profesional"
-              }
-            ]
-          }
-        ]
+        "URL": "https://linkedin.com/in/javier-curto-brull"
       }
     ]
   },
@@ -274,7 +212,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/javier-curto-brull/",
+          "URL": "https://linkedin.com/in/javier-curto-brull",
           "type": "linkedin"
         }
       ],
