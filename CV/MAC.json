@@ -413,6 +413,10 @@
           "type": "technology"
         },
         {
+          "name": "Puppet",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
