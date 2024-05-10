@@ -11,8 +11,8 @@
       "title": "Desarrollador Backend con Spring en NTT DATA - Me encanta no parar de aprender 🙇🏻 - Enfocando mi ruta hacia DevOps 🧑🏻‍💻",
       "description": "¡Me encanta cultivarme y nunca dejar de aprender! Estoy en pleno proceso de reinventarme por completo... Porque nunca es tarde para perseguir tus pasiones.\n\nEl primer paso de esta transformación fue estudiar el FP de Sistemas Microinformáticos y Redes, seguido por el FP de Desarrollo de Aplicaciones Web.\n\nEn mi incansable búsqueda de conocimiento, estoy avanzando gradualmente en mi formación como DevOps, un campo que me apasiona profundamente.\n\nDurante mis prácticas del Ciclo Formativo en NTT Data, tuve la oportunidad de sumergirme en el mundo laboral y más tarde me integré en su equipo como desarrollador backend Java, utilizando la plataforma Spring.\n\n¡Siempre en constante aprendizaje y evolución! 🚀",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/9293ce83-09ee-4664-9041-b353d18b09ca_linkedin-photo-15293.linkedin-photo-15293",
-        "alt": "24/05/10/9293ce83-09ee-4664-9041-b353d18b09ca_linkedin-photo-15293.linkedin-photo-15293"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/41de5610-dcfe-4f18-babb-8fc705672883_linkedin-photo-15293.linkedin-photo-15293",
+        "alt": "24/05/10/41de5610-dcfe-4f18-babb-8fc705672883_linkedin-photo-15293.linkedin-photo-15293"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJOQL7kTWeeg0RQJQLJ3bF6vs)",
@@ -25,6 +25,129 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/javier-curto-brull"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Career Break"
+        },
+        "roles": [
+          {
+            "name": "Professional development",
+            "startDate": "2024-05-10",
+            "challenges": [
+              {
+                "description": "Licencia de asuntos propios para realizar las prácticas del CFGS de Desarrollo de Aplicaciones Web en NTT Data."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/cd5901ef-960c-4a47-a3d7-877555d44004_linkedin-photo-15293.linkedin-photo-15293",
+            "alt": "24/05/10/cd5901ef-960c-4a47-a3d7-877555d44004_linkedin-photo-15293.linkedin-photo-15293"
+          }
+        },
+        "roles": [
+          {
+            "name": "Prácticas - Formación en Desarrollo Backend Java Spring",
+            "startDate": "2024-05-10",
+            "challenges": [
+              {
+                "description": "Prácticas FP Desarrollo Aplicaciones Web\n- Java\n- Spring\n- Programación Funcional\n- Servicios API REST"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/95796bb3-c62e-47ce-9a79-8f1bc6765a84_linkedin-photo-15293.linkedin-photo-15293",
+            "alt": "24/05/10/95796bb3-c62e-47ce-9a79-8f1bc6765a84_linkedin-photo-15293.linkedin-photo-15293"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Backend con Spring",
+            "startDate": "2024-05-10",
+            "challenges": [
+              {
+                "description": "Desarrollador backend Java Spring"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ejercito de Tierra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/b7e5f0e8-4cba-48a4-a868-e8695f5ae4f8_linkedin-photo-15293.linkedin-photo-15293",
+            "alt": "24/05/10/b7e5f0e8-4cba-48a4-a868-e8695f5ae4f8_linkedin-photo-15293.linkedin-photo-15293"
+          }
+        },
+        "roles": [
+          {
+            "name": "Punto Oficial de Contacto para los Sistemas de Información y Telecomunicaciones, Oficinista",
+            "startDate": "2019-01-01",
+            "finishDate": "2023-02-28",
+            "challenges": [
+              {
+                "description": "Trabajo de oficina donde gestionamos la documentación del personal para su acceso a la base.\n\n• Gestión de equipos informáticos.\n• Gestión de usuarios de dichos equipos.\n• Mantenimiento de equipos informáticos.\n• Realización de tareas administrativas.\n• Atención al público."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ejercito de Tierra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/3f60f950-becc-4b58-bf04-7c2d1aad315c_linkedin-photo-15293.linkedin-photo-15293",
+            "alt": "24/05/10/3f60f950-becc-4b58-bf04-7c2d1aad315c_linkedin-photo-15293.linkedin-photo-15293"
+          }
+        },
+        "roles": [
+          {
+            "name": "Unidad de Seguridad",
+            "startDate": "2007-01-01",
+            "finishDate": "2019-01-31",
+            "challenges": [
+              {
+                "description": "Control de Accesos\nGestión del Centro de Control de Seguridad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ejercito de Tierra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/e5335b9a-1cb2-4b39-baee-5c1009dea177_linkedin-photo-15293.linkedin-photo-15293",
+            "alt": "24/05/10/e5335b9a-1cb2-4b39-baee-5c1009dea177_linkedin-photo-15293.linkedin-photo-15293"
+          }
+        },
+        "roles": [
+          {
+            "name": "Militar Profesional",
+            "startDate": "1998-05-01",
+            "finishDate": "2007-01-31",
+            "challenges": [
+              {
+                "description": "Skills: Responsabilidad · Trabajo en equipo · Vigilancia"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
